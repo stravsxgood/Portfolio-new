@@ -1,4 +1,4 @@
-# [Nama Kamu] — Web Portfolio
+# Web Portfolio
 Junior Web Developer berfokus pada pengembangan web yang clean, responsive, dan mudah dikembangkan.
 
 ## 🚀 Tech Stack
